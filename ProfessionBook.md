@@ -1,7 +1,7 @@
 # 职业列表
 
 ## 前言
-大家一起来当快乐小魔女吧
+<center>大家一起来当快乐小魔女吧<center>
 <p style="text-align: right">新野雏</p>
 
 ## R1
