@@ -10,6 +10,5 @@
    :maxdepth: 1
    :caption: 内容:
    
-		职业列表 <ProfessionBook.md>
-		技能列表 <ProfessionBook.md>
+		列表<ProfessionBook.md>
 
