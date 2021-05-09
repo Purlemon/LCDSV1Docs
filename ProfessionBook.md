@@ -169,4 +169,4 @@ LV9获得职业技能 穷地
 ## R4
 ### 啊
 #### 这样
-<span id="jump">跳转到的地方</span>
+<span id="jump" target="_blank">跳转到的地方</span>
