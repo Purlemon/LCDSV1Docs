@@ -19,13 +19,13 @@ from recommonmark.transform import AutoStructify
 
 # -- Project information -----------------------------------------------------
 
-project = 'Dice!'
-copyright = '2020, Suhui & Shiki'
-author = 'Suhui & Shiki'
+project = 'LCDS'
+copyright = '2021, Purlemon'
+author = 'Purlemon'
 master_doc = 'index'
 
 # The full version, including alpha/beta/rc tags
-release = '2.4.0'
+release = '1.0.0'
 
 
 # -- General configuration ---------------------------------------------------
