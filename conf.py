@@ -21,7 +21,7 @@ from recommonmark.transform import AutoStructify
 
 project = 'LCDS'
 copyright = '2021, Purlemon'
-author = 'Purlemon'
+author = '库碧拉&胖虎&新野雏'
 master_doc = 'index'
 
 # The full version, including alpha/beta/rc tags
