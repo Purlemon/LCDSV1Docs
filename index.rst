@@ -10,7 +10,5 @@
    :maxdepth: 1
    :caption: 内容:
    
-		炼骰手册 <CookBook.md>
-		Master手册 <Master_Manual.md>
-		用户手册 <User_Manual.md>
+		职业 <ProfessionBook.md>
 
