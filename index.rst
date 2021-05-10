@@ -7,10 +7,9 @@
 =================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: 内容:
    
-		规则书<RulesBook.md>
-		列表<ProfessionBook.md>
+		列表 <ProfessionBook.md>
 		
 
