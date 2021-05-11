@@ -31,9 +31,6 @@ MedSword
 特大剑
 ExtraLargeSword
 
-仪式、龙语、远古法术、言灵
-CDlAsSs
-
 空间法术
 SpaceSpell
 
