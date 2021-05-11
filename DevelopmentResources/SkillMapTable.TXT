@@ -4,14 +4,29 @@ RoughShot
 快速射击
 FastShot
 
-精准射击
+精射密击
 PrecisionShot
+
+格斗技能
+FightingSkills
+
+小型武器
+SmallWeapon
+
+中型武器
+MedWeapon
+
+大型武器
+LargeWeapon
+
+巨型武器
+ExtraLargeWeapon
 
 拳套
 Gloves
 
 长剑
-LargeSword
+MedSword
 
 特大剑
 ExtraLargeSword
