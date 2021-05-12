@@ -1,3 +1,9 @@
+列维尔的入阵之道入门
+RevereIntoBattle
+
+无我境地
+Selfless
+
 粗暴射击
 RoughShot
 
@@ -28,7 +34,7 @@ Gloves
 长剑
 MedSword
 
-特大剑
+巨剑
 ExtraLargeSword
 
 空间法术
