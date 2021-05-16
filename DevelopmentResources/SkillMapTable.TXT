@@ -1,6 +1,15 @@
 列维尔的入阵之道入门
 RevereIntoBattle
 
+召唤加速
+SummonAcceleration
+
+同调
+Homology
+
+虚假之心
+FalseHeart
+
 无我境地
 Selfless
 
@@ -54,6 +63,9 @@ DBoyShootPlay
 
 FP强化
 FPStrengthen
+
+FP回复强化
+FPRestoreStrengthen
 
 HP强化
 HPStrengthen
