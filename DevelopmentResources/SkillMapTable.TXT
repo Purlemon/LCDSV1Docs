@@ -1,6 +1,18 @@
 列维尔的入阵之道入门
 RevereIntoBattle
 
+瑶光
+Yaoguang
+
+使命必达
+MissionMustReached
+
+红莲落衣
+RedLotus
+
+一花一界
+OneFlowerOneWorld
+
 召唤加速
 SummonAcceleration
 
@@ -12,6 +24,9 @@ FalseHeart
 
 无我境地
 Selfless
+
+无心境地
+WithoutMood
 
 粗暴射击
 RoughShot
