@@ -11,5 +11,6 @@
    :caption: 内容:
    
 		列表 <ProfessionBook.md>
+		装备 <Equipment.md>
 		
 
