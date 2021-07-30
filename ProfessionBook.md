@@ -771,9 +771,9 @@ LV7：<br/>
 简介<br/>
 愚弄世界的最强欺诈师<br/>
 职业技能<br/>
-`[淘气诡计（突击魔术)](#TricktTrick) <br/>
-`[魔力之星（FP回复强化)](#ManaStar) <br/>
-`[表演时间（无我境地）](#ShowTime) <br/>
+`[淘气诡计（突击魔术)](#TricktTrick)`<br/>
+`[魔力之星（FP回复强化)](#ManaStar)`<br/>
+`[表演时间（无我境地）](#ShowTime)`<br/>
 诡计明星一共有7个等级<br/>
 LV1：获得职业技能<br/>
 获得能力:<br/>
