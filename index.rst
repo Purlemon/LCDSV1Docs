@@ -12,5 +12,7 @@
    
 		列表 <ProfessionBook.md>
 		装备 <Equipment.md>
+                规则书 <RulesBook.md>
+		 
 		
 
