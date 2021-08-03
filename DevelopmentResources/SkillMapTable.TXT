@@ -118,7 +118,7 @@ PuppetMaking
 攻壳(人偶制作)
 DollMaking
 
-会心强化
+超会心
 KnowinglyStrengthen
 
 体转变
