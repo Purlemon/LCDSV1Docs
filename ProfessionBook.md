@@ -432,6 +432,7 @@ LV3：获得能力<br/>
 [防御](#Defense)<br/>
 [全抗性强化](#TotalResistanceEnhancement)<br/>
 [缓冲机构](#BufferMechanism)<br/>
+[坚守](#HoldFast)<br/>
 重战士一共有5级<br/>
 LV1：获得职业技能<br/>
 LV2：获得能力<br/>
