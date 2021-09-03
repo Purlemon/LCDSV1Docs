@@ -29,7 +29,7 @@ LV1获得职业技能<br/>
 [机械知识]<br/>
 LV3：获得职业技能<br/>
 [铁匠手艺](#BlacksmithCraftsmanship)<br/>
-LV9获得职业技能<br/>
+LV5获得职业技能<br/>
 [专注](#Focus)<br/>
 
 ### 学者之种
