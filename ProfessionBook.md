@@ -202,7 +202,7 @@ LV7：获得能力<br/>
 
 ### 光祈者
 前置条件：<br/>
-坚毅50+魔感50+`[宗教知识](#)`30<br/>
+坚毅50+魔感50+[宗教知识](#GodKnowledge)30<br/>
 职业技能<br/>
 [光属性攻击强化](#LightAttackEnhancement)<br/>
 [暗属性抗性强化](#DarkAttributeResistanceEnhancement)<br/>
@@ -276,7 +276,7 @@ LV7：获得能力<br/>
 
 ### 士兵
 前置条件：<br/>
-恐惧积累不高于3+[基础攻击力强化](#AttackPowerEnhancement)30+`[宗教知识](#)`30<br/>
+恐惧积累不高于3+[基础攻击力强化](#AttackPowerEnhancement)30+[宗教知识](#GodKnowledge)30<br/>
 简介<br/>
 受到教宗的感召而拿起武器的凡人，成群结队，软弱无力，然而却不曾在恶兽面前退却一步。<br/>
 职业技能<br/>
@@ -3238,7 +3238,7 @@ HP每0.1s自动完全回复3<br/>
 使用机械时，干扰抗性+3(B2类)<br/>
 对机械造物类的敌人最终伤害增加10%。(B2类)<br/>
 
-###宗教知识<span id="GodKnowledge"></span>
+### 宗教知识<span id="GodKnowledge"></span>
 
 #### 投入15技能点解锁：
 宗教知识LV1：能够阅读、理解难度不超过3的神术，明白其作用的原理，效果。
