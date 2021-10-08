@@ -3656,6 +3656,7 @@ Narrative Poem of Sliver - Sniper03<br/>
 ## 魔力发生器
 
 ### R1
+
 #### FAL-05
 价格：830购买力<br/>
 重量：110<br/>
@@ -3685,7 +3686,7 @@ Narrative Poem of Sliver - Sniper03<br/>
 高压爆破弹LV1、2<br/>
 高压爆破照射LV1<br/>
 特殊效果：<br/>
-
+冻伤触发：对方的冷气异常最大值的60%以上时进行冷气属性攻击触发，动作发生时间延长0.2s，PP回复下降20。持续5s。（一型DB）
 ### R2
 
 ### R3
