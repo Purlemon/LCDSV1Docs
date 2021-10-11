@@ -228,7 +228,7 @@ LV3:获得回避动作<br/>
 制作奇形怪状的人偶以代替自身进行战斗的职业。<br/>
 职业技能<br/>
 [操偶术](#Puppetry)<br/>
-[人偶制作](#PuppetMaking)<br/>
+[人偶制作（铁匠手艺）](#PuppetMaking)<br/>
 [隐匿](#Hide)<br/>
 人偶师一共有7级<br/>
 LV1：获得职业技能<br/>
