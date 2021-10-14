@@ -85,7 +85,7 @@ LV2获得职业技能<br/>
 LV3获得职业技能<br/>
 [聆听强化](#ListeningReinforcement)<br/>
 LV5获得职业技能<br/>
-[生存本能](#SurvivalInstinct)
+[生存本能（基础攻击力强化）](#SurvivalInstinct)
 
 ### 斗士之种
 前置条件：无。<br/>
@@ -149,7 +149,7 @@ LV1：获得职业技能<br/>
 LV2：获得职业技能<br/>
 [PP回复强化](#PPRestoreStrengthen)<br/>
 LV9：获得职业技能<br/>
-[心斋](#Shinsai)<br/>
+[心斋（FP回复强化）](#Shinsai)<br/>
 [姿势控制](#PostureControl)<br/>
 
 ### 马术师之种
@@ -210,7 +210,7 @@ LV3:获得能力<br/>
 前置条件：无<br/>
 简介：穿戴好合适的武器，做好短兵相接的觉悟，便能称之为拳击手。<br/>
 职业技能<br/>
-[无我境地](#Selfless)<br/>
+[无我境地（基础攻击力强化）](#Selfless)<br/>
 [跳步](#Step)<br/>
 [PP回复强化](#PPRestoreStrengthen)<br/>
 拳击手一共有3级<br/>
@@ -876,7 +876,7 @@ LV7：<br/>
 任意一项水形流武器奥义<br/>
 `[奥义：风雅煌玉(翻滚)](#)`<br/>
 `[奥义：行乡君合(防御)](#)`<br/>
-[心斋](#Shinsai)<br/>
+[心斋（FP回复强化）](#Shinsai)<br/>
 水形一共有7级<br/>
 LV1：获得职业技能<br/>
 LV2：获得能力<br/>
