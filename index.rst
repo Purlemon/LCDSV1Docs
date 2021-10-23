@@ -13,7 +13,8 @@
         规则书 <RulesBook.md>
 		列表 <ProfessionBook.md>
 		装备 <Equipment.md>
-        法术大全 <Magical.md>        
+        法术大全 <Magical.md>      
+        世界设定 <Set.md>    
 		更新日志<UpdateLog.md> 
 		
 
