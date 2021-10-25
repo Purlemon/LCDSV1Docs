@@ -119,7 +119,7 @@ LV3获得职业技能<br/>
 潜藏在人体内的可能性，尚未发芽的才能之种，其存在象征着无限的未来。<br/>
 狂奔之种一共有3个等级。<br/>
 LV1获得职业技能<br/>
-[奔跑强化](#Run)<br/>
+[奔跑](#Run)<br/>
 LV2获得职业技能<br/>
 [PP强化](#PPStrengthen)<br/>
 [PP回复强化](#PPRestoreStrengthen)<br/>
