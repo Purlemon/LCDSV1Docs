@@ -641,7 +641,7 @@ LV3：获得能力<br/>
 快速飘射：调整射角时旋回性能增快50%。（独立，与其他所有类冲突取高）<br/>
 LV5：获得能力<br/>
 
-### 热核熔炉
+#### 热核熔炉
 前置条件：[机械知识入门](#MechanicalKnowledge)80+[铁匠手艺](#BlacksmithCraftsmanship)30<br/>
 简介：<br/>
 职业技能：<br/>
@@ -655,7 +655,7 @@ LV3：获得能力<br/>
 LV5：获得能力<br/>
 过热枪击：枪械的热量为最大时可以强行进行一次射击，但那之后直到热量清零为止散热速率减少至原本的一半。<br/>
 
-### 日月波流
+#### 日月波流
 前置条件：[光属性攻击力强化](#LightAttackEnhancement)50+[机械知识入门](#MechanicalKnowledge)30+[铁匠手艺](#BlacksmithCraftsmanship)50<br/>
 简介：<br/>
 职业技能：<br/>
