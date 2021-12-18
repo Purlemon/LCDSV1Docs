@@ -112,7 +112,7 @@ LV1获得职业技能<br/>
 LV2获得职业技能<br/>
 [恐惧抑制](#FearSuppression)<br/>
 LV3获得职业技能<br/>
-暗属性攻击强化
+暗属性攻击强化<br/>
 LV7获得职业技能<br/>
 [超会心](#KnowinglyStrengthen)<br/>
 
@@ -804,7 +804,7 @@ LV3：获得能力<br/>
 职业技能<br/>
 任选一派除空间法术外的初级法术<br/>[空间法术](#SpaceSpell)<br/>
 [咒文咏唱](#MantraChanting)<br/>
-任选一类法术辅助能力(仪式、魔药、符文)<br/>
+任选一派初级仪式或炼金术<br/>
 法术学徒一共有7级<br/>
 LV1：获得职业技能<br/>
 LV2：获得能力<br/>
