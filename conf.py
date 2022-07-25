@@ -35,8 +35,13 @@ release = '1.0.0'
 # ones.
 # extensions = ["recommonmark"
 # ]
+source_parsers = {
+    '.md': 'recommonmark.parser.CommonMarkParser',
+}
 
+source_suffix = ['.rst', '.md']
 extensions = ['recommonmark','sphinx_markdown_tables'] 
+
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
